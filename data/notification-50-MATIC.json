@@ -1,0 +1,14 @@
+{
+    "notification": {
+        "title": "",
+        "body": "You have received 50 MATIC!"
+    },
+    "data": {
+        "type": "3",
+        "secret": "",
+        "asub": "",
+        "amsg": "You have received 50 MATIC\n\r Have a nice day",
+        "acta": "",
+        "aimg": ""
+    }
+}
