@@ -18,6 +18,8 @@ networks:
     verify: False
   rinkeby:
     verify: False
+  kovan:
+    verify: False
   ganache:
     verify: False
 
