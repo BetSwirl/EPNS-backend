@@ -5,10 +5,12 @@ reports:
     - SafeMath
 dependencies:
   - OpenZeppelin/openzeppelin-contracts@4.1.0
+  - smartcontractkit/chainlink-brownie-contracts@0.4.0
 compiler:
   solc:
     remappings:
       - '@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.1.0'
+      - '@chainlink=smartcontractkit/chainlink-brownie-contracts@0.4.0'
 
 # automatically fetch contract sources from Etherscan
 autofetch_sources: True
